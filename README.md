@@ -1,2 +1,2 @@
-# ffcWetherApp
-Wether app for free code camp zippline challenge
+# fccWetherApp
+Weather app for free code camp zippline challenge
